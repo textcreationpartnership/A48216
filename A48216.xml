@@ -1,0 +1,327 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A Letter to Ferguson or any other the suppos'd author of a late scandalous libel entituled An elogie upon Sir Tho. Armstrong : from one that heartily wishes them what they deserve.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1684</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A48216</idno>
+            <idno type="STC">Wing L1703</idno>
+            <idno type="STC">ESTC R36365</idno>
+            <idno type="EEBO-CITATION">15668155</idno>
+            <idno type="OCLC">ocm 15668155</idno>
+            <idno type="VID">104338</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A48216)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 104338)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1152:37)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A Letter to Ferguson or any other the suppos'd author of a late scandalous libel entituled An elogie upon Sir Tho. Armstrong : from one that heartily wishes them what they deserve.</title>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Joseph Hindmarsh ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1684.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>In verse.</note>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Imperfect: print show-through.</note>
+                  <note>Reproduction of original in the Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Armstrong, Thomas, --  Sir, 1624?-1684 --  Poetry.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-08</date>
+            <label>Lauren Proux</label>Sampled and proofread</change>
+         <change>
+            <date>2009-08</date>
+            <label>Lauren Proux</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="poem">
+            <pb facs="tcp:104338:1"/>
+            <pb n="1" facs="tcp:104338:1" rendition="simple:additions"/>
+            <head>A LETTER TO FERGUSON, Or any other, the ſuppos'd Author of a late Scandalous Libel, Entituled, <hi>An Elogie upon Sir</hi> Tho. Armſtrong.</head>
+            <byline>From one that heartily wiſhes them what they deſerve.</byline>
+            <lg>
+               <l>VVHEN firſt the noted Libel did appear,</l>
+               <l>The Hearts of all your Friends were ſtrook with fear;</l>
+               <l>Finding, like a true Block-head, you had choſe</l>
+               <l>Some <hi>Belgick</hi> Muſe to rally <hi>Armſtrong</hi>'s Foes.</l>
+               <l>For all your dear Acquaintants in this Iſle,</l>
+               <l>Tho' they extoll'd the Treaſon, damn'd the ſtyle,</l>
+               <l>And joyntly own'd that by Poetick Laws,</l>
+               <l>True Hanging you deſerv'd, but no Applauſe.</l>
+               <l>Stories obſcene may dully be expreſt,</l>
+               <l>And with each wanton Humour paſs for jeſt:</l>
+               <l>Miſpriſions too may crawl in humble ſtrain,</l>
+               <l>And no Whigg curſt for his inſipid vein.</l>
+               <l>But haughty Treaſon, dangerous and ſublime,</l>
+               <l>Should have a Genius lofty as the Crime.</l>
+               <l>For who upon that Theme poor Dogrill writes,</l>
+               <l>Rather does damp Rebellion, than excites.</l>
+               <l>Curſe on thy ſottiſh Head, that was the cauſe</l>
+               <l>Of forming Monſters without Teeth or Claws:</l>
+               <l>Poyſon they have enough, and ſhape to fright,</l>
+               <l>But the poor Devils can neither ſcratch nor bite.</l>
+               <l>Scorn'd and thrown by, like a blunt edgleſs Tool,</l>
+               <l>And ſhew thee much a Rogue, but more a Fool.</l>
+            </lg>
+            <lg>
+               <l>Ah! could Old <hi>Shaftsbury</hi> have leave to riſe</l>
+               <l>From the dark noiſom Charnel where he lyes,</l>
+               <l>What Rage thy Rhimes would in his Soul beget,</l>
+               <l>To ſee ſuch Loads of Treaſon, and no Wit!</l>
+               <l>The <hi>German</hi> Hereſie he had ſuppreſt,</l>
+               <l>And <hi>Anabaptiſt</hi> Cant by thee profeſt.</l>
+               <pb n="2" facs="tcp:104338:2" rendition="simple:additions"/>
+               <l>He would have Chriſten'd thee to hide that ſhame,</l>
+               <l>And thou <hi>Eternal Dunce</hi> had been thy Name.</l>
+               <l>Methinks I ſee the little Elder ſtand</l>
+               <l>Wielding his Fatal Spigot in his hand,</l>
+               <l>Which he had torn from out its tender place,</l>
+               <l>Ready to throw the Faucet in thy face.</l>
+               <l>If ere his Maxims were before thy Eyes,</l>
+               <l>Thou then would'ſt find a Rebel ſhould be wiſe,</l>
+               <l>And with ſlye Logick gloſs his fallacies.</l>
+               <l>But thy dull Brain makes all the Party droop;</l>
+               <l>Thy Soul was gorg'd with Treaſon's Poyſon'd Cup,</l>
+               <l>And here thy naſty Muſe has ſpew'd it up.</l>
+               <l>Burn then that Hand that held thy guilty Pen,</l>
+               <l>And ſo recover thy loſt Fame agen.</l>
+               <l>Atone for writing Nonſenſe, burn it ſtraight,</l>
+               <l>And <hi>Cranmer,</hi> whom thou talk'ſt of, imitate.</l>
+               <l>Yet, in each Caſe, be this diſtinction taught,</l>
+               <l>He burnt for what his Conſcience found a fault,</l>
+               <l>But thou for having prov'd thy ſelf a Sot.</l>
+               <l>And when it comes, as ſure 'twill be thy Fate,</l>
+               <l>That the ſame Truncheon ſhall adorn a Gate:</l>
+               <l>There flouriſh, ſince thou think'ſt it flouriſhing,</l>
+               <l>And ſtink in black defiance of the King.</l>
+            </lg>
+            <lg>
+               <l>'Mongſt all the Sciences in Kingdoms known,</l>
+               <l>To be a Villain, is the eaſieſt one.</l>
+               <l>From <hi>Engliſh</hi> Soil in ſwarms ſuch Inſects riſe,</l>
+               <l>Bred out of Excrement, like Drones and Flies.</l>
+               <l>But tho' a Dunce may ſerve in common Arts,</l>
+               <l>A Rebel ſtill ſhould be a Rogue of Parts.</l>
+               <l>Fools Ominouſly ſhew our near Diſgraces;</l>
+               <l>Thus <hi>Dick</hi> the Scepter loſt, <hi>M — th</hi> his Places.</l>
+               <l>Sir <hi>Martin</hi> marrs the Polititian's toyl,</l>
+               <l>And <hi>Oats</hi> and <hi>Cummins</hi> two wiſe Plots did ſpoil.</l>
+            </lg>
+            <lg>
+               <l>'Twere wondrous well, if Fate would order't ſo:</l>
+               <l>That each man did his Sphere of Knowledge know,</l>
+               <l>Then thou thy Talent cautiouſly would'ſt ſee,</l>
+               <l>And School the Rabble, not write Elogie.</l>
+               <l>Inſtruction there might raiſe thy Fame agen,</l>
+               <l>A Canting Saint, tho' Devil at thy Pen.</l>
+               <l>For when Hell's Synod would Rebellion Teach,</l>
+               <l>The dulleſt Rogue is ſtill moſt fit to Preach.</l>
+               <l>Excuſe me, that thy want of Brains I quote,</l>
+               <l>Affronts ſeem Raillery with Friends remote;</l>
+               <l>Beſides, I meerly do't to ſave thy Soul,</l>
+               <l>Leſt thou ſhould'ſt damn it by ſome other Scrowl.</l>
+               <l>Like one that ſquints, thou ſeeſt not thy own ill,</l>
+               <l>But throw'ſt on others Atoms that can kill,</l>
+               <l>Envenom'd like this Couplet of thy Quill;</l>
+               <l>
+                  <hi>To be concern'd the</hi> STUARTS <hi>to reſtore,</hi>
+                  <note place="margin">
+                     <hi>Libel.</hi>
+                  </note>
+               </l>
+               <l>
+                  <hi>Is a Reproach that hardly can be bore.</hi>
+               </l>
+               <l>Did ever Hell-hound write the like before?</l>
+               <l>Such Malice, with ſuch Non-ſenſe, for 'twas all</l>
+               <l>
+                  <hi>Armſtrong</hi> had left to ſave his certain fall.</l>
+               <pb n="3" facs="tcp:104338:2" rendition="simple:additions"/>
+               <l>His turn-coat Zeal was his beſt Policy,</l>
+               <l>For he long ſince had elſe been mounted high,</l>
+               <l>And his Preferment curſt of Pentioner and Spy.</l>
+            </lg>
+            <lg>
+               <l>Methinks I ſee thee Summon the Cabal,</l>
+               <l>And on that Diſtich ask their Counſels all:</l>
+               <l>
+                  <hi>G—y, N—p, Ire—n,</hi> to the Theme advance,</l>
+               <l>And <hi>B—don,</hi> that went ore in Complaiſance.</l>
+               <l>Then <hi>Goodenough</hi> brings grizly <hi>T—ner</hi> in,</l>
+               <l>And his fair Spouſe, that lately ſick had bin,</l>
+               <l>And ſcap't great danger her laſt Lying-in.</l>
+               <l>The Mighty lines were ſcan'd and underſtood,</l>
+               <l>And all upon their Honours ſwore 'em good:</l>
+               <l>Methinks too at their words I ſee thee ſwell,</l>
+               <l>As Boys make Bubbles, or as Butchers Veal.</l>
+               <l>Thus rank Abuſe, and Praiſe in Ridicule,</l>
+               <l>Ne're fail to pleaſe with your conceited Fool.</l>
+            </lg>
+            <lg>
+               <l>Shew me a Traiterous Plot has been atchiev'd,</l>
+               <l>Where Rogues were not at laſt by Rogues deceiv'd:</l>
+               <l>Like Lobſters ſtrook, they Naturally draw</l>
+               <l>The reſt, and on each other fix a Claw.</l>
+               <l>Therefore to give thee cauſe to think me juſt,</l>
+               <l>I'll ſhew thee why theſe are not fit for truſt.</l>
+               <l>Firſt, <hi>G—y,</hi> that now is weary of one Wh—</l>
+               <l>Will 'peach, becauſe he's Scandalouſly poor:</l>
+               <l>Beſides, ſhe's ugly grown; and 'tis our Natures,</l>
+               <l>When Beauty's gone, to think 'em nauſeous Creatures:</l>
+               <l>She too inrag'd, becauſe another Dame</l>
+               <l>Lately come o're, Uſurps her Place and Name,</l>
+               <l>Is wondrous thoughtful: And 'tis ten to one,</l>
+               <l>When ſuch can think, ſome Miſchief will be done.</l>
+               <l>Next, burly <hi>B—don</hi> he ſo wide does gape,</l>
+               <l>Secrets, as well as Flies, muſt needs eſcape:</l>
+               <l>Treaſon can ne're lye ſafe in one, whoſe Skin</l>
+               <l>Is made too little to contain it in:</l>
+               <l>For whileſt he cleanlily takes pains to ſtop</l>
+               <l>One end, another certainly is ope;</l>
+               <l>And I ſhould be in fear of the back-door,</l>
+               <l>As much as of the Wicket that's before.</l>
+               <l>Then never truſt, nor think him ſecret proof,</l>
+               <l>Whom Nature would not truſt with Skin enough.</l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>Ire—n</hi> his parts for <hi>Armſtrong</hi> lately play'd,</l>
+               <l>And ſpoke ſo well in <hi>Dutch</hi> to get him Aid;</l>
+               <l>The Shag-hair'd Ruffian well deſerv'd the Grace</l>
+               <l>To have been Shipp'd, and gain'd the ſecond Place.</l>
+               <l>His Name conceal'd, he durſt appear in this;</l>
+               <l>For the Devil himſelf has not a worſe than his:</l>
+               <l>But finding that he was obſerv'd, and known,</l>
+               <l>Quench'd his hot Zeal, and ſneak'd into the Town.</l>
+               <l>Friends are forgot when Dangers are too near,</l>
+               <l>By ſuch as tremble with a guilty fear.</l>
+               <l>Then ſince the leaſt of Ills 'tis beſt to take,</l>
+               <l>Faith truſt to thy own ſelf for thy own ſake:</l>
+               <l>'Tis better to be hang'd for what thou doſt,</l>
+               <l>Than by their tricks to dangle, as thou muſt.</l>
+               <pb n="4" facs="tcp:104338:3"/>
+               <l>Self-preſervation is our chiefeſt care,</l>
+               <l>And thou thy Treaſon beſt canſt know and bear;</l>
+               <l>Beſides, thy Folly makes thee ſafe enough,</l>
+               <l>Nothing holds Poyſon like an Aſſes hoof.</l>
+            </lg>
+            <lg>
+               <l>Your Quoting Scripture is as dull a thing,</l>
+               <l>As you ſhould ſwear you'r Loyal to the King;</l>
+               <l>Of equal worth and weight to all your Friends:</l>
+               <l>So once the Devil did it for his Ends;</l>
+               <l>But was, I think, more ſubtil than you are,</l>
+               <l>And ſure the better Writer too by far.</l>
+               <l>Inſtead of matching <hi>Tom</hi> with <hi>Cato,</hi> he</l>
+               <l>Had wrote, <hi>Bold Bravo, Thou art fit for me:</hi>
+               </l>
+               <l>But thou haſt waſh'd him, and as ſpotleſs made,</l>
+               <l>As he had never Murder'd nor Betray'd.</l>
+               <l>Some Counſel now, and then I'll give thee o're,</l>
+               <l>Continue Rogue, but dare to write no more:</l>
+               <l>With Satyrs if thou would'ſt thy Foes diſgrace,</l>
+               <l>Shew 'em no more thy ſcribling, but thy face:</l>
+               <l>There's profit in't, five hundred pounds lye dead</l>
+               <l>For want of thy Satyrical damn'd Head:</l>
+               <l>But touch no more on <hi>CHARLES</hi> his Sacred Line,</l>
+               <l>For all th' Aſſembly of the Powers Divine,</l>
+               <l>In Miracles his God-like Virtues own,</l>
+               <l>Defending many Years his oft-attempted Crown.</l>
+               <l>Beſides, broad Lyes the Party will undo,</l>
+               <l>Satyrs ſhould all be ſharp, but yet be true:</l>
+               <l>Nor need'ſt thou thus thy ſelf more Guilty make;</l>
+               <l>But now, if after all, I ſhould miſtake,</l>
+               <l>And that the Libel was not thine, pray tell</l>
+               <l>The Author, this will ſerve his turn as well.</l>
+            </lg>
+            <closer>
+               <dateline>From <hi>Pontack's</hi> Tavern, formerly known by the Noted Name of <hi>Shepheards,</hi> 
+                  <date>this 13th. of <hi>Auguſt,</hi> 1684.</date>
+               </dateline>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Joſeph Hindmarſh,</hi> Bookſeller to His <hi>ROYAL HIGHNESS,</hi> at the <hi>Black Bull</hi> in <hi>Cornhill,</hi> 1684.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
